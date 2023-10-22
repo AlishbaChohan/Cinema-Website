@@ -1,0 +1,50 @@
+header 
+{
+width:100%;
+height:150px;
+padding-top:0px;
+text-align:center;
+font-family: Algerian;
+font-size:100px;}
+
+td, th {color: white; border: 2px solid white;}
+li { float:left; 
+padding:15px;
+padding-right:80px;}
+
+.a {background-color:grey;
+color:black;
+font-family: "times new roman";
+width:100px;
+font-size:medium;
+border:none;}
+
+a{text-decoration:none;
+color:black;}
+
+label {color:white;}
+
+submit {color:green;}
+
+.b{background-color:black;
+color:white;font-family:'times new roman';}
+
+footer {
+  background-color:grey;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+.form {font-family:'times new roman';color:white;}
+
+.movies {background-color:red;
+color:white;}
+
+h1{background-color:#6E0709;
+color:white;}
+
+.footer {list-style-type:none; overflow:hidden; padding-right:110px;align:center; background-color:grey; height:50px; width:88%; position:absolute; top:1480px;}
+
+.menu {list-style-type:none; overflow:hidden; padding-right:110px; background-color:grey; height:50px; width:92%; position:relative;}
+
